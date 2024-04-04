@@ -1,2 +1,2 @@
 # Demo
-Author - Tanisha JaiThis is my First repo itself.
+Author - Tanisha Jain, This is my First repo. itself.
